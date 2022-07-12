@@ -1,4 +1,6 @@
-# verbal-counting-app
+# Verbal Counting Application
+
+[View Demo](https://verbal-counting-app.vercel.app/)
 
 ## Project setup
 ```
